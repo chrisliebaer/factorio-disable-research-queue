@@ -1,0 +1,11 @@
+{
+	"name": "Disable-Research-Queue",
+	"version": "0.1.0",
+	"title": "Disable Research Queue",
+	"author": "Chrisliebaer",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 2.0"
+	],
+	"description": "This mod disables the research queue by preventing the player from adding more than one research at a time."
+}
